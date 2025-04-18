@@ -1,4 +1,4 @@
-# 🧠 StudyLens – AI Peer Review Circle
+#  StudyLens – AI Peer Review Circle
 
 > A decentralized AI-powered platform where students peer-review each other's answers, projects, and resumes, while AI evaluates the reviewers themselves for fairness, depth, and helpfulness.
 
@@ -8,25 +8,25 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📤 **Submit Work**: Upload assignments, resumes, or essays for peer review.
-- 🧐 **Two Review Modes**:
+- **Submit Work**: Upload assignments, resumes, or essays for peer review.
+- **Two Review Modes**:
   - **Short Review**: Grammar, tone, and clarity.
   - **Deep Review**: Logic, structure, improvement suggestions.
-- 👥 **Anonymous Peer Reviews**: Ensures unbiased feedback.
-- 🤖 **AI Evaluation**:
+- **Anonymous Peer Reviews**: Ensures unbiased feedback.
+- **AI Evaluation**:
   - Scores each review for helpfulness and fairness.
   - Summarizes key suggestions from multiple reviews.
-- 🏆 **Karma-Based System**:
+- **Karma-Based System**:
   - Earn tokens for quality reviews.
   - Unlock priority features like resume critiques, mock HR questions.
-- 🧩 **Community Integration**: Leaderboard, badges, and discussion channels.
-- 🔒 **Secure Login** via Firebase/OAuth (college email-based).
+- **Community Integration**: Leaderboard, badges, and discussion channels.
+- **Secure Login** via Firebase/OAuth (college email-based).
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer       | Technology                      |
 |-------------|----------------------------------|
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧭 Project Workflow
+##  Project Workflow
 
 1. **User signs up** using college email.
 2. **Submits content** (assignment, resume, etc.).
@@ -52,7 +52,7 @@
 
 ---
 
-## 🌟 Use Cases
+##  Use Cases
 
 - Final-year project reviews  
 - Resume polishing before placements  
@@ -61,30 +61,30 @@
 
 ---
 
-## 📂 Folder Structure (Suggested)
+##  Folder Structure (Suggested)
 
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 
-- 🌐 Multilingual support  
-- 📊 AI-based analytics dashboard  
-- 🎓 Faculty/expert reviewer badges  
-- 📱 Mobile app (React Native)
+-  Multilingual support  
+-  AI-based analytics dashboard  
+-  Faculty/expert reviewer badges  
+-  Mobile app (React Native)
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repo  
 2. Create a new branch (`feature/your-feature-name`)  
 3. Commit your changes  
-4. Open a Pull Request 🚀
+4. Open a Pull Request 
 
 ---
 
-## 👩‍💻 Project by
+##  Project by
 
 **Aditi Popat Neharkar**  
 Final-year B.Sc. IT student  
